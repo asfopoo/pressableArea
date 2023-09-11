@@ -1,2 +1,2 @@
 # pressableArea
-a pressable component using pressable
+a pressable component that gives feedback similar to touchables
